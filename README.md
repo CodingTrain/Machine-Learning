@@ -34,20 +34,16 @@ Examples and experiments around ML for upcoming Coding Train videos and ITP cour
 ## Projects
   1. [Bidirectional LSTM for IMDB sentiment classification](https://transcranial.github.io/keras-js/#/imdb-bidirectional-lstm)
   1. [Land Lines](https://medium.com/@zachlieberman/land-lines-e1f88c745847#.1157xmhw8)
-  1. [Magenta](https://github.com/tensorflow/magenta)
   1. [nnvis - Topological Visualisation of a Convolutional Neural Network](http://terencebroad.com/convnetvis/vis.html)
 
 ## Videos
-  (reinforcement)
-  1. [Artificial Intelligence in Google's Dinosaur (English Sub)](https://www.youtube.com/watch?v=P7XHzqZjXQs)
-
-  1. [Evolving Swimming Soft-Bodied Creatures](https://www.youtube.com/watch?v=4ZqdvYrZ3ro)
-  1. [Harnessing evolutionary creativity: evolving soft-bodied animats in simulated physical environments](https://www.youtube.com/watch?v=CXTZHHQ7ZiQ&feature=youtu.be)
-  1. [How to use Q Learning in Video Games Easily](https://www.youtube.com/watch?v=A5eihauRQvo&feature=youtu.be)
-  1. [Reproduce image with genetic algorithm](https://www.youtube.com/watch?v=iV-hah6xs2A)
-the previous one is the same as
-GA:
-https://t.co/SxWKFl9VAK  
+  * Reinforcement Learning
+    1. [Artificial Intelligence in Google's Dinosaur (English Sub)](https://www.youtube.com/watch?v=P7XHzqZjXQs)
+    1. [How to use Q Learning in Video Games Easily](https://www.youtube.com/watch?v=A5eihauRQvo&feature=youtu.be)
+  * Evolutionary Algorithms
+    1. [Evolving Swimming Soft-Bodied Creatures](https://www.youtube.com/watch?v=4ZqdvYrZ3ro)
+    1. [Harnessing evolutionary creativity: evolving soft-bodied animats in simulated physical environments](https://www.youtube.com/watch?v=CXTZHHQ7ZiQ&feature=youtu.be)
+    1. [Reproduce image with genetic algorithm](https://www.youtube.com/watch?v=iV-hah6xs2A)
 
 ## Tools
   1. [ConvNetJS - Javascript library for training Deep Learning models (Neural Networks) ](http://cs.stanford.edu/people/karpathy/convnetjs/)
@@ -56,6 +52,7 @@ https://t.co/SxWKFl9VAK
 
 ### TensorFlow
   1. [Projector](http://projector.tensorflow.org/)
+  1. [Magenta](https://github.com/tensorflow/magenta)
 
 ### Tensorflow posts
   1. [Big deep learning news: Google Tensorflow chooses Keras](http://www.fast.ai/2017/01/03/keras/)

@@ -1,7 +1,7 @@
 # Machine-Learning
-Examples and experiments around ML for upcoming Coding Train videos
+Examples and experiments around ML for upcoming Coding Train videos and ITP course.
 
-## Table of Contents
+# Table of Contents
 <!-- MarkdownTOC depth=4 -->
 - [Articles & Posts](#articles--posts)
 - [Courses](#courses)
@@ -13,8 +13,6 @@ Examples and experiments around ML for upcoming Coding Train videos
     - [t-SNE](#tsne)
 
 <!-- /MarkdownTOC -->
-# Links I'm collecting (to be organized)
-
 ## Articles & Posts
   1. [A Return to Machine Learning](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb#.vlqnbo9yg)
   1. [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)

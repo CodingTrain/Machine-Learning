@@ -2,21 +2,17 @@
 Examples and experiments around ML for upcoming Coding Train videos
 
 ## Table of Contents
-
 <!-- MarkdownTOC depth=4 -->
-
 - [Articles & Posts](#articles--posts)
 - [Courses](#courses)
 - [Examples](#examples)
 - [Projects](#projects)
 - [Videos](#videos)
-
 - [Tools](#tools)
     - [Tensorflow](#tensorflow)
-    -  [t-SNE](#tsne)
+    - [t-SNE](#tsne)
 
 <!-- /MarkdownTOC -->
-
 # Links I'm collecting (to be organized)
 
 ## Articles & Posts

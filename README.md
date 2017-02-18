@@ -21,6 +21,7 @@ Examples and experiments around ML for upcoming Coding Train videos and ITP cour
   1. [Machine Learning in Javascript: Introduction](http://burakkanber.com/blog/machine-learning-in-other-languages-introduction/)
   1. [Realtime control of sequence generation with character based Long Short Term Memory Recurrent Neural Networks](http://www.iggi.org.uk/assets/IGGI-2016-Memo-A.pdf)
   1. [Why is machine learning 'hard'?](http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html)
+  1. [Unreasonable effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 
 ## Courses
   1. [The Neural Aesthetic @ SchoolOfMa, Summer 2016](http://ml4a.github.io/classes/neural-aesthetic/)
@@ -35,6 +36,8 @@ Examples and experiments around ML for upcoming Coding Train videos and ITP cour
   1. [Bidirectional LSTM for IMDB sentiment classification](https://transcranial.github.io/keras-js/#/imdb-bidirectional-lstm)
   1. [Land Lines](https://medium.com/@zachlieberman/land-lines-e1f88c745847#.1157xmhw8)
   1. [nnvis - Topological Visualisation of a Convolutional Neural Network](http://terencebroad.com/convnetvis/vis.html)
+  1. [char-rnn A character level language model (a fancy text generator)](https://github.com/karpathy/char-rnn)
+  
 
 ## Videos
   * Reinforcement Learning

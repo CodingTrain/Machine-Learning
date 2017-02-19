@@ -18,6 +18,7 @@ give attributes to them so that it is easy to understand where a resource fits i
 - [Examples](#examples)
 - [Projects](#projects)
 - [Videos](#videos)
+- [Resources](#resources)
 - [Tools](#tools)
     - [Tensorflow](#tensorflow)
     - [t-SNE](#t-sne)
@@ -63,6 +64,9 @@ give attributes to them so that it is easy to understand where a resource fits i
     1. [Evolving Swimming Soft-Bodied Creatures](https://www.youtube.com/watch?v=4ZqdvYrZ3ro) :rainbow: :bowtie:
     1. [Harnessing evolutionary creativity: evolving soft-bodied animats in simulated physical environments](https://www.youtube.com/watch?v=CXTZHHQ7ZiQ&feature=youtu.be) :rainbow: :bowtie:
     1. [Reproduce image with genetic algorithm](https://www.youtube.com/watch?v=iV-hah6xs2A) :bowtie:
+
+## Resources
+  1. [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## Tools
   1. [ConvNetJS - Javascript library for training Deep Learning models (Neural Networks) ](http://cs.stanford.edu/people/karpathy/convnetjs/) :sweat_smile: 

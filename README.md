@@ -36,8 +36,10 @@ give attributes to them so that it is easy to understand where a resource fits i
 
 ## Courses
   1. [The Neural Aesthetic @ SchoolOfMa, Summer 2016](http://ml4a.github.io/classes/neural-aesthetic/) :rainbow: :bowtie:
-  2. [Machine Learning for Musicians and Artists, Kadenze](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-i)[Scheduled course] :rainbow: :bowtie:
-  3. [Creative Applications of Deep Learning with TensorFlow, Kadenze](https://www.kadenze.com/programs/creative-applications-of-deep-learning-with-tensorflow)[Whole Program] :rainbow: :sweat_smile:
+  1. [Machine Learning for Musicians and Artists, Kadenze](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-i)[Scheduled course] :rainbow: :bowtie:
+  1. [Creative Applications of Deep Learning with TensorFlow, Kadenze](https://www.kadenze.com/programs/creative-applications-of-deep-learning-with-tensorflow)[Whole Program] :rainbow: :sweat_smile:
+  1. [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning) :bowtie:
+  1. [Coursera - Neural Networks](https://www.coursera.org/learn/neural-networks) :sweat_smile:
 
 ## Examples
   1. [A Deep Q Reinforcement Learning Demo](http://projects.rajivshah.com/rldemo/) :bowtie: 

@@ -74,6 +74,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Magenta](https://github.com/tensorflow/magenta) :rainbow:
   1. [TensorFlow and Flask](https://blog.metaflow.fr/tensorflow-how-to-freeze-a-model-and-serve-it-with-a-python-api-d4f3596b3adc#.96tvigb98_), Thanks to @Hebali [basic pipeline, minus TensorFlow plus a very basic placeholder function](
 http://www.patrickhebron.com/learning-machines/week8.html) 
+  1. [Awesome Tensorflow - curated list of TensorFlow tutorials](https://github.com/jtoy/awesome-tensorflow)
 
 ### Tensorflow posts
   1. [Big deep learning news: Google Tensorflow chooses Keras](http://www.fast.ai/2017/01/03/keras/)

@@ -10,7 +10,7 @@ Examples and experiments around ML for upcoming Coding Train videos and ITP cour
 - [Videos](#videos)
 - [Tools](#tools)
     - [Tensorflow](#tensorflow)
-    - [t-SNE](#tsne)
+    - [t-SNE](#t-sne)
 
 <!-- /MarkdownTOC -->
 ## Articles & Posts

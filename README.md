@@ -26,7 +26,7 @@ give attributes to them so that it is easy to understand where a resource fits i
 ## Articles & Posts
   1. [A Return to Machine Learning](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb#.vlqnbo9yg) :rainbow: :bowtie:
   1. [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) :rainbow: :bowtie:
-  1. [Machine Learning is Fun!] :bowtie:
+  1. [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) :bowtie:
   1. [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) :rainbow: 
   1. [Inside Libratus, the Poker AI That Out-Bluffed the Best Humans](https://www.wired.com/2017/02/libratus/? imm_mid=0ed017&cmp=em-data-na-na-newsltr_ai_20170206) :bowtie:
   1. [Machine Learning in Javascript: Introduction](http://burakkanber.com/blog/machine-learning-in-other-languages-introduction/) :bowtie:

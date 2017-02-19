@@ -30,6 +30,7 @@ Examples and experiments around ML for upcoming Coding Train videos and ITP cour
   1. [How to use Q Learning in Video Games Easily](https://github.com/llSourcell/q_learning_demo)
   1. [K-nearest](https://twitter.com/MaximilianLloyd/status/814942799351185408)
   1. [The Infinite Drum Machine](https://aiexperiments.withgoogle.com/drum-machine/view/)
+  1. [Visualizing the perceptron training algorithm](https://kwichmann.github.io/ml_sandbox/perceptron/)
 
 ## Projects
   1. [Bidirectional LSTM for IMDB sentiment classification](https://transcranial.github.io/keras-js/#/imdb-bidirectional-lstm)

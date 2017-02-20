@@ -1,3 +1,5 @@
+![Dreams in the CodingTrain](https://raw.githubusercontent.com/CodingTrain/Machine-Learning/master/codingdream.jpg)
+
 # Machine-Learning
 Examples and experiments around ML for upcoming Coding Train videos and ITP course.
 

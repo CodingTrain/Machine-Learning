@@ -49,7 +49,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [How to use Q Learning in Video Games Easily](https://github.com/llSourcell/q_learning_demo) :rainbow: :bowtie:
   1. [K-nearest](https://twitter.com/MaximilianLloyd/status/814942799351185408) :bowtie: 
   1. [The Infinite Drum Machine](https://aiexperiments.withgoogle.com/drum-machine/view/) :rainbow: :bowtie:
-  1. [Visualizing the perceptron training algorithm](https://kwichmann.github.io/ml_sandbox/perceptron/) :rainbow: :bowtie:
+  1. [Visualizing various ML algorithms](https://kwichmann.github.io/ml_sandbox/) :rainbow: :bowtie:
 
 ## Projects
   1. [Bidirectional LSTM for IMDB sentiment classification](https://transcranial.github.io/keras-js/#/imdb-bidirectional-lstm) :sweat_smile:

@@ -30,7 +30,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [A Return to Machine Learning](https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb#.vlqnbo9yg) :rainbow: :bowtie:
   1. [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) :rainbow: :bowtie:
   1. [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) :bowtie:
-  1. [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) :rainbow: 
+  1. [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) :rainbow:
   1. [Inside Libratus, the Poker AI That Out-Bluffed the Best Humans](https://www.wired.com/2017/02/libratus/? imm_mid=0ed017&cmp=em-data-na-na-newsltr_ai_20170206) :bowtie:
   1. [Machine Learning in Javascript: Introduction](http://burakkanber.com/blog/machine-learning-in-other-languages-introduction/) :bowtie:
   1. [Realtime control of sequence generation with character based Long Short Term Memory Recurrent Neural Networks](http://www.iggi.org.uk/assets/IGGI-2016-Memo-A.pdf) :sweat_smile:
@@ -45,19 +45,20 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Coursera - Neural Networks](https://www.coursera.org/learn/neural-networks) :sweat_smile:
 
 ## Examples
-  1. [A Deep Q Reinforcement Learning Demo](http://projects.rajivshah.com/rldemo/) :bowtie: 
+  1. [A Deep Q Reinforcement Learning Demo](http://projects.rajivshah.com/rldemo/) :bowtie:
   1. [How to use Q Learning in Video Games Easily](https://github.com/llSourcell/q_learning_demo) :rainbow: :bowtie:
-  1. [K-nearest](https://twitter.com/MaximilianLloyd/status/814942799351185408) :bowtie: 
+  1. [K-nearest](https://twitter.com/MaximilianLloyd/status/814942799351185408) :bowtie:
   1. [The Infinite Drum Machine](https://aiexperiments.withgoogle.com/drum-machine/view/) :rainbow: :bowtie:
   1. [Visualizing various ML algorithms](https://kwichmann.github.io/ml_sandbox/) :rainbow: :bowtie:
   1. [Image-to-Image - from lines to cats](http://affinelayer.com/pixsrv/) :rainbow:
+  2. [Recurrent Neural Network Tutorial for Artists](http://blog.otoro.net/2017/01/01/recurrent-neural-network-artist/) :rainbow:
 
 ## Projects
   1. [Bidirectional LSTM for IMDB sentiment classification](https://transcranial.github.io/keras-js/#/imdb-bidirectional-lstm) :sweat_smile:
-  1. [Land Lines](https://medium.com/@zachlieberman/land-lines-e1f88c745847#.1157xmhw8) 
+  1. [Land Lines](https://medium.com/@zachlieberman/land-lines-e1f88c745847#.1157xmhw8)
   1. [nnvis - Topological Visualisation of a Convolutional Neural Network](http://terencebroad.com/convnetvis/vis.html) :rainbow: :bowtie:
   1. [char-rnn A character level language model (a fancy text generator)](https://github.com/karpathy/char-rnn) :rainbow: :sweat_smile:
-  
+
 
 ## Videos
   * Reinforcement Learning
@@ -72,7 +73,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## Tools
-  1. [ConvNetJS - Javascript library for training Deep Learning models (Neural Networks) ](http://cs.stanford.edu/people/karpathy/convnetjs/) :sweat_smile: 
+  1. [ConvNetJS - Javascript library for training Deep Learning models (Neural Networks) ](http://cs.stanford.edu/people/karpathy/convnetjs/) :sweat_smile:
   1. [RecurrentJS - Deep Recurrent Neural Networks and LSTMs in Javascript](https://github.com/shiffman/recurrentjs) :sweat_smile:
   1. [WORD2VEC](http://technobium.com/find-words-similarity-using-deeplearning4j-word2vec/) :sweat_smile:
 
@@ -80,7 +81,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Projector](http://projector.tensorflow.org/) :sweat_smile:
   1. [Magenta](https://github.com/tensorflow/magenta) :rainbow:
   1. [TensorFlow and Flask](https://blog.metaflow.fr/tensorflow-how-to-freeze-a-model-and-serve-it-with-a-python-api-d4f3596b3adc#.96tvigb98_), Thanks to @Hebali [basic pipeline, minus TensorFlow plus a very basic placeholder function](
-http://www.patrickhebron.com/learning-machines/week8.html) 
+http://www.patrickhebron.com/learning-machines/week8.html)
   1. [Awesome Tensorflow - curated list of TensorFlow tutorials](https://github.com/jtoy/awesome-tensorflow)
 
 ### Tensorflow posts

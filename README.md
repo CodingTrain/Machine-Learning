@@ -43,6 +43,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Creative Applications of Deep Learning with TensorFlow, Kadenze](https://www.kadenze.com/programs/creative-applications-of-deep-learning-with-tensorflow)[Whole Program] :rainbow: :sweat_smile:
   1. [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning) :bowtie:
   1. [Coursera - Neural Networks](https://www.coursera.org/learn/neural-networks) :sweat_smile:
+  1. [Practical Deep Learning for Coders](http://www.fast.ai/2017/02/24/captions-and-notes/) :bowtie:
 
 ## Examples
   1. [A Deep Q Reinforcement Learning Demo](http://projects.rajivshah.com/rldemo/) :bowtie:

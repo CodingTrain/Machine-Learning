@@ -16,6 +16,7 @@ give attributes to them so that it is easy to understand where a resource fits i
 # Table of Contents
 <!-- MarkdownTOC depth=4 -->
 - [Articles & Posts](#articles--posts)
+- [Books](#books)
 - [Courses](#courses)
 - [Examples](#examples)
 - [Projects](#projects)
@@ -36,6 +37,9 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Realtime control of sequence generation with character based Long Short Term Memory Recurrent Neural Networks](http://www.iggi.org.uk/assets/IGGI-2016-Memo-A.pdf) :sweat_smile:
   1. [Why is machine learning 'hard'?](http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html) :bowtie:
   1. [Unreasonable effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) :sweat_smile:
+
+## Books
+  1. [Machine Learning for Designers](http://www.oreilly.com/design/free/machine-learning-for-designers.csp) by [Patrick Hebron](http://www.patrickhebron.com/), [Accompanying Webcast: Machine learning and the future of design](http://www.oreilly.com/pub/e/3709)
 
 ## Courses
   1. [The Neural Aesthetic @ SchoolOfMa, Summer 2016](http://ml4a.github.io/classes/neural-aesthetic/) :rainbow: :bowtie:

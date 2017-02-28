@@ -57,6 +57,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Visualizing various ML algorithms](https://kwichmann.github.io/ml_sandbox/) :rainbow: :bowtie:
   1. [Image-to-Image - from lines to cats](http://affinelayer.com/pixsrv/) :rainbow:
   2. [Recurrent Neural Network Tutorial for Artists](http://blog.otoro.net/2017/01/01/recurrent-neural-network-artist/) :rainbow:
+  1. [Browser Self-Driving Car](http://janhuenermann.com/projects/learning-to-drive),[http://lab.janhuenermann.de/article/learning-to-drive](Learning to Drive Blog Post)
 
 ## Projects
   1. [Bidirectional LSTM for IMDB sentiment classification](https://transcranial.github.io/keras-js/#/imdb-bidirectional-lstm) :sweat_smile:
@@ -81,6 +82,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [ConvNetJS - Javascript library for training Deep Learning models (Neural Networks) ](http://cs.stanford.edu/people/karpathy/convnetjs/) :sweat_smile:
   1. [RecurrentJS - Deep Recurrent Neural Networks and LSTMs in Javascript](https://github.com/shiffman/recurrentjs) :sweat_smile:
   1. [WORD2VEC](http://technobium.com/find-words-similarity-using-deeplearning4j-word2vec/) :sweat_smile:
+  1. [Neuro.js](https://github.com/janhuenermann/neurojs)
 
 ### TensorFlow
   1. [Projector](http://projector.tensorflow.org/) :sweat_smile:

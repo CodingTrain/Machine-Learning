@@ -57,7 +57,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Visualizing various ML algorithms](https://kwichmann.github.io/ml_sandbox/) :rainbow: :bowtie:
   1. [Image-to-Image - from lines to cats](http://affinelayer.com/pixsrv/) :rainbow:
   2. [Recurrent Neural Network Tutorial for Artists](http://blog.otoro.net/2017/01/01/recurrent-neural-network-artist/) :rainbow:
-  1. [Browser Self-Driving Car](http://janhuenermann.com/projects/learning-to-drive),[http://lab.janhuenermann.de/article/learning-to-drive](Learning to Drive Blog Post)
+  1. [Browser Self-Driving Car](http://janhuenermann.com/projects/learning-to-drive),[Learning to Drive Blog Post](http://lab.janhuenermann.de/article/learning-to-drive)
 
 ## Projects
   1. [Bidirectional LSTM for IMDB sentiment classification](https://transcranial.github.io/keras-js/#/imdb-bidirectional-lstm) :sweat_smile:

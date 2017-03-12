@@ -90,7 +90,7 @@ give attributes to them so that it is easy to understand where a resource fits i
 ## Resources
   1. [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
   1. ‪[QA StackOverflow](http://stackoverflow.com/questions/20898300/whats-the-other-major-approach-paradigms-in-machine-learning-besides-baysian-me‬) 
-  1. [‪Free fataset for projects](https://www.dataquest.io/blog/free-datasets-for-projects/‬)
+  1. [‪Free dataset for projects](https://www.dataquest.io/blog/free-datasets-for-projects/‬)
   1. [Facial Recognition Database](https://www.kairos.com/blog/166-60-facial-recognition-databases‬)
 
 ## Newsletter

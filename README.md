@@ -22,6 +22,7 @@ give attributes to them so that it is easy to understand where a resource fits i
 - [Projects](#projects)
 - [Videos](#videos)
 - [Resources](#resources)
+- [Newsletter] (#Newsletter)
 - [Tools](#tools)
     - [Tensorflow](#tensorflow)
     - [t-SNE](#t-sne)
@@ -38,11 +39,12 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Why is machine learning 'hard'?](http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html) :bowtie:
   1. [Unreasonable effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) :sweat_smile:
   1. [colah's blog](http://colah.github.io/)
-  1. ‪[ Machine Learning Website with many Tutorial of Machine Learning ‬:rainbow:‪] ( http://machinelearningmastery.com/‬ )
-  1. [ ‪Beginners tutorial for decision tree implementation. ‬:rainbow:‪]  ( https://www.dezyre.com/data-science-in-r-programming-tutorial/decision-tree-tutorial )
-  1.[ ‪Machine Learning Beginner tutorial Supervised and Unsupervised Learning :rainbow:‪] ( http://dataaspirant.com/2014/09/19/supervised-and-unsupervised-learning/‬ )
-  ‪1.[ Q-Learning Tutorial :sweet_smile:‪]  ( http://outlace.com/Reinforcement-Learning-Part-3/ )
-## Books
+  1. ‪[Machine Learning Website with many Tutorial of Machine Learning ‬:rainbow:‪](http://machinelearningmastery.com/‬)
+  1. [Beginners tutorial for decision tree implementation ‬:rainbow:‪](https://www.dezyre.com/data-science-in-r-programming-tutorial/decision-tree-tutorial)
+  1.[Machine Learning Beginner tutorial Supervised and Unsupervised Learning :rainbow:‪](http://dataaspirant.com/2014/09/19/supervised-and-unsupervised-learning/‬)
+  ‪1.[Q-Learning Tutorial :sweet_smile:‪](http://outlace.com/Reinforcement-Learning-Part-3/)
+
+ ## Books
   1. [Machine Learning for Designers](http://www.oreilly.com/design/free/machine-learning-for-designers.csp) by [Patrick Hebron](http://www.patrickhebron.com/), [Accompanying Webcast: Machine learning and the future of design](http://www.oreilly.com/pub/e/3709)
   1. [ ‪Reinforcement Learning Book ‬:sweet_smile:‪] ( https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html )
   1. [Machine Learning Book :rainbow:]  ‪( https://machinelearningmastery.com/master-machine-learning-algorithms/‬ )
@@ -84,6 +86,7 @@ give attributes to them so that it is easy to understand where a resource fits i
     1. [Reproduce image with genetic algorithm](https://www.youtube.com/watch?v=iV-hah6xs2A) :bowtie:
   * Deep Learning 
     1. ‪[Video Lectures of Deep Learning. ‬:sweet_smile:‪]  (http://videolectures.net/deeplearning2015_montreal/)   ‬
+
 ## Resources
   1. [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
   1. ‪[QA StackOverflow] (http://stackoverflow.com/questions/20898300/whats-the-other-major-approach-paradigms-in-machine-learning-besides-baysian-me‬)
@@ -91,6 +94,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1.[‪Free fataset for projects] (https://www.dataquest.io/blog/free-datasets-for-projects/‬)
 
 ## Newsletter 
+
     1. [Data Science] (https://www.datascienceweekly.org/)
     1. [Data Elixir](https://dataelixir.com/)
     1. [Artificial Intelligence Weekly](http://aiweekly.co/)

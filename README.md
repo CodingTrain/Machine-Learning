@@ -43,6 +43,11 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Beginners tutorial for decision tree implementation](https://www.dezyre.com/data-science-in-r-programming-tutorial/decision-tree-tutorial) :rainbow:‪
   1. [Machine Learning Beginner tutorial Supervised and Unsupervised Learning](http://dataaspirant.com/2014/09/19/supervised-and-unsupervised-learning/‬) :rainbow:‪
   1. [Q-Learning Tutorial](http://outlace.com/Reinforcement-Learning-Part-3/) :sweat_smile:
+  1. [Big O notation Free Code Camp](https://medium.freecodecamp.com/time-is-complex-but-priceless-f0abd015063c?source=linkShare-4599aaae9f0b-1489449307) :bowtie:
+  1. [Ray Wenderlich Big O notation](https://github.com/raywenderlich/swift-algorithm-club/blob/master/Big-O%20Notation.markdown) :bowtie:
+  1. [Interview Cake Big O notation](https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity) :bowtie:
+  1. [Youtube Video Big O notation Derek Banas](https://m.youtube.com/watch?v=V6mKVRU1evU) :bowtie:
+  1. [Youtube Video for Big O notation HackerRank](https://youtu.be/v4cd1O4zkGw) :bowtie:
   
 ## Books
   1. [Machine Learning for Designers](http://www.oreilly.com/design/free/machine-learning-for-designers.csp) by [Patrick Hebron](http://www.patrickhebron.com/), [Accompanying Webcast: Machine learning and the future of design](http://www.oreilly.com/pub/e/3709)
@@ -92,6 +97,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. ‪[QA StackOverflow Machine Learning Algorithms](http://stackoverflow.com/questions/20898300/whats-the-other-major-approach-paradigms-in-machine-learning-besides-baysian-me‬) 
   1. [‪Free dataset for projects](https://www.dataquest.io/blog/free-datasets-for-projects/‬)
   1. [Facial Recognition Database](https://www.kairos.com/blog/166-60-facial-recognition-databases‬)
+  1. [iOS application- Read top articles for your professional skills with @mybridge - Here you can find new articles every day for Data Science and Machine Learning among other things](https://itunes.apple.com/app/id1055459116)
 
 ## Newsletter
   1. [Data Science] (https://www.datascienceweekly.org/)

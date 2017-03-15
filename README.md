@@ -33,7 +33,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [A Visual Introduction to Machine Learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) :rainbow: :bowtie:
   1. [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) :bowtie:
   1. [Deep Reinforcement Learning: Pong from Pixels](http://karpathy.github.io/2016/05/31/rl/) :rainbow:
-  1. [Inside Libratus, the Poker AI That Out-Bluffed the Best Humans](https://www.wired.com/2017/02/libratus/? imm_mid=0ed017&cmp=em-data-na-na-newsltr_ai_20170206) :bowtie:
+  1. [Inside Libratus, the Poker AI That Out-Bluffed the Best Humans](https://www.wired.com/2017/02/libratus/?imm_mid=0ed017&cmp=em-data-na-na-newsltr_ai_20170206) :bowtie:
   1. [Machine Learning in Javascript: Introduction](http://burakkanber.com/blog/machine-learning-in-other-languages-introduction/) :bowtie:
   1. [Realtime control of sequence generation with character based Long Short Term Memory Recurrent Neural Networks](http://www.iggi.org.uk/assets/IGGI-2016-Memo-A.pdf) :sweat_smile:
   1. [Why is machine learning 'hard'?](http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html) :bowtie:
@@ -48,6 +48,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Interview Cake Big O notation](https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity) :bowtie:
   1. [Youtube Video Big O notation Derek Banas](https://m.youtube.com/watch?v=V6mKVRU1evU) :bowtie:
   1. [Youtube Video for Big O notation HackerRank](https://youtu.be/v4cd1O4zkGw) :bowtie:
+  1. [Random Forest in Python](http://blog.yhat.com/posts/random-forests-in-python.html) :sweat_smile:
   
 ## Books
   1. [Machine Learning for Designers](http://www.oreilly.com/design/free/machine-learning-for-designers.csp) by [Patrick Hebron](http://www.patrickhebron.com/), [Accompanying Webcast: Machine learning and the future of design](http://www.oreilly.com/pub/e/3709)
@@ -79,6 +80,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Land Lines](https://medium.com/@zachlieberman/land-lines-e1f88c745847#.1157xmhw8)
   1. [nnvis - Topological Visualisation of a Convolutional Neural Network](http://terencebroad.com/convnetvis/vis.html) :rainbow: :bowtie:
   1. [char-rnn A character level language model (a fancy text generator)](https://github.com/karpathy/char-rnn) :rainbow: :sweat_smile:
+  1. [Machine Learnig Projects](http://blog.yhat.com/posts/ML-to-watch.html)
 
 
 ## Videos
@@ -90,7 +92,7 @@ give attributes to them so that it is easy to understand where a resource fits i
     1. [Harnessing evolutionary creativity: evolving soft-bodied animats in simulated physical environments](https://www.youtube.com/watch?v=CXTZHHQ7ZiQ&feature=youtu.be) :rainbow: :bowtie:
     1. [Reproduce image with genetic algorithm](https://www.youtube.com/watch?v=iV-hah6xs2A) :bowtie:
   * Deep Learning 
-    1. ‪[Video Lectures of Deep Learning‪] (http://videolectures.net/deeplearning2015_montreal/) ‬:sweat_smile:   ‬
+    1. ‪[Video Lectures of Deep Learning‪](http://videolectures.net/deeplearning2015_montreal/) ‬:sweat_smile:   ‬
 
 ## Resources
   1. [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
@@ -98,12 +100,14 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [‪Free dataset for projects](https://www.dataquest.io/blog/free-datasets-for-projects/‬)
   1. [Facial Recognition Database](https://www.kairos.com/blog/166-60-facial-recognition-databases‬)
   1. [iOS application- Read top articles for your professional skills with @mybridge - Here you can find new articles every day for Data Science and Machine Learning among other things](https://itunes.apple.com/app/id1055459116)
-
+  1. [Machine Learning Resources](http://blog.yhat.com/posts/ML-resources-you-should-know.html) 
+  1. [Isochrones using the Google Maps Distance Matrix API](http://blog.yhat.com/posts/isochrones-isocronut.html)
+  
 ## Newsletter
-  1. [Data Science] (https://www.datascienceweekly.org/)
-  1. [Data Elixir] (https://dataelixir.com/)
-  1. [Artificial Intelligence Weekly] (http://aiweekly.co/)
-  1. [Data Aspirant] (http://dataaspirant.com/)
+  1. [Data Science](https://www.datascienceweekly.org/)
+  1. [Data Elixir](https://dataelixir.com/)
+  1. [Artificial Intelligence Weekly](http://aiweekly.co/)
+  1. [Data Aspirant](http://dataaspirant.com/)
 
 ## Tools
   1. [ConvNetJS - Javascript library for training Deep Learning models (Neural Networks) ](http://cs.stanford.edu/people/karpathy/convnetjs/) :sweat_smile:

@@ -63,7 +63,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Coursera - Neural Networks](https://www.coursera.org/learn/neural-networks) :sweat_smile:
   1. [Practical Deep Learning for Coders](http://www.fast.ai/2017/02/24/captions-and-notes/) :bowtie:
   1. [‪Course in Machine Learning](http://ciml.info/?utm_source=mybridge&utm_medium=ios&utm_campaign=read_more‬)
-  1. [‪Standford Course Machine Learning](http://cs229.stanford.edu/materials.html‬)
+  1. [‪Stanford Course Machine Learning](http://cs229.stanford.edu/materials.html‬)
 
 ## Examples
   1. [A Deep Q Reinforcement Learning Demo](http://projects.rajivshah.com/rldemo/) :bowtie:
@@ -93,6 +93,8 @@ give attributes to them so that it is easy to understand where a resource fits i
     1. [Reproduce image with genetic algorithm](https://www.youtube.com/watch?v=iV-hah6xs2A) :bowtie:
   * Deep Learning 
     1. ‪[Video Lectures of Deep Learning‪](http://videolectures.net/deeplearning2015_montreal/) ‬:sweat_smile:   ‬
+  * Artificial Intelligence
+    1. [MIT 6.034 Artificial Intelligence, Fall 2010](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) - Complete set of course lectures
 
 ## Resources
   1. [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)

@@ -118,6 +118,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [WORD2VEC](http://technobium.com/find-words-similarity-using-deeplearning4j-word2vec/) :sweat_smile:
   1. [Neuro.js](https://github.com/janhuenermann/neurojs)
   1. [‪Google Chrome Extensión to download all Image of the Google Search](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=es‬) :bowtie: :rainbow:
+  1 [Scikit-Learn](http://scikit-learn.org/)
  
 ### TensorFlow
   1. [Projector](http://projector.tensorflow.org/) :sweat_smile:

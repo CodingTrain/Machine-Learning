@@ -64,6 +64,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Practical Deep Learning for Coders](http://www.fast.ai/2017/02/24/captions-and-notes/) :bowtie:
   1. [‪Course in Machine Learning](http://ciml.info/?utm_source=mybridge&utm_medium=ios&utm_campaign=read_more‬)
   1. [‪Stanford Course Machine Learning](http://cs229.stanford.edu/materials.html‬)
+  1. [Udacity - Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)[Whole Program] :sweat_smile:
 
 ## Examples
   1. [A Deep Q Reinforcement Learning Demo](http://projects.rajivshah.com/rldemo/) :bowtie:
@@ -117,6 +118,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [WORD2VEC](http://technobium.com/find-words-similarity-using-deeplearning4j-word2vec/) :sweat_smile:
   1. [Neuro.js](https://github.com/janhuenermann/neurojs)
   1. [‪Google Chrome Extensión to download all Image of the Google Search](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=es‬) :bowtie: :rainbow:
+  1 [Scikit-Learn](http://scikit-learn.org/)
  
 ### TensorFlow
   1. [Projector](http://projector.tensorflow.org/) :sweat_smile:

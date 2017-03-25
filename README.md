@@ -49,7 +49,8 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Youtube Video Big O notation Derek Banas](https://m.youtube.com/watch?v=V6mKVRU1evU) :bowtie:
   1. [Youtube Video for Big O notation HackerRank](https://youtu.be/v4cd1O4zkGw) :bowtie:
   1. [Random Forest in Python](http://blog.yhat.com/posts/random-forests-in-python.html) :sweat_smile:
-  
+  1. [CreativeAI - On the Democratisation & Escalation of Creativity](https://medium.com/@creativeai/creativeai-9d4b2346faf3#.8oaibcklb) :rainbow: :bowtie:
+   
 ## Books
   1. [Machine Learning for Designers](http://www.oreilly.com/design/free/machine-learning-for-designers.csp) by [Patrick Hebron](http://www.patrickhebron.com/), [Accompanying Webcast: Machine learning and the future of design](http://www.oreilly.com/pub/e/3709)
   1. [Reinforcement Learning Book‪](https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html) :sweat_smile:
@@ -105,6 +106,9 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [iOS application- Read top articles for your professional skills with @mybridge - Here you can find new articles every day for Data Science and Machine Learning among other things](https://itunes.apple.com/app/id1055459116)
   1. [Machine Learning Resources](http://blog.yhat.com/posts/ML-resources-you-should-know.html) 
   1. [Isochrones using the Google Maps Distance Matrix API](http://blog.yhat.com/posts/isochrones-isocronut.html)
+  1. [Index of Best AI/Machine Learning Resources](https://hackernoon.com/index-of-best-ai-machine-learning-resources-71ba0c73e34d#.f0vx1erj9)
+  
+
   
 ## Newsletter
   1. [Data Science](https://www.datascienceweekly.org/)

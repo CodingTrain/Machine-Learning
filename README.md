@@ -52,6 +52,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [CreativeAI - On the Democratisation & Escalation of Creativity](https://medium.com/@creativeai/creativeai-9d4b2346faf3#.8oaibcklb) :rainbow: :bowtie:
   1. [Reducing the Dimensionality of Data with Neural Networks](https://www.cs.toronto.edu/~hinton/science.pdf)
   1. [Learning Deep Architectures for AI](https://www.iro.umontreal.ca/~bengioy/papers/ftml.pdf)
+  1. [Let’s code a Neural Network from scratch (Processing)](https://medium.com/typeme/lets-code-a-neural-network-from-scratch-part-1-24f0a30d7d62) :sweat_smile:
    
 ## Books
   1. [Machine Learning for Designers](http://www.oreilly.com/design/free/machine-learning-for-designers.csp) by [Patrick Hebron](http://www.patrickhebron.com/), [Accompanying Webcast: Machine learning and the future of design](http://www.oreilly.com/pub/e/3709)

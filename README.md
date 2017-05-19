@@ -54,6 +54,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Learning Deep Architectures for AI](https://www.iro.umontreal.ca/~bengioy/papers/ftml.pdf)
   1. [Let’s code a Neural Network from scratch (Processing)](https://medium.com/typeme/lets-code-a-neural-network-from-scratch-part-1-24f0a30d7d62) :sweat_smile:
   1. [Distill - Demystifying Machine Learning Research](http://distill.pub/)
+  1. [Machine Learning in Javascript](http://burakkanber.com/tag/ml-in-js/) :sweat_smile:
    
 ## Books
   1. [Machine Learning for Designers](http://www.oreilly.com/design/free/machine-learning-for-designers.csp) by [Patrick Hebron](http://www.patrickhebron.com/), [Accompanying Webcast: Machine learning and the future of design](http://www.oreilly.com/pub/e/3709)
@@ -101,6 +102,12 @@ give attributes to them so that it is easy to understand where a resource fits i
   * Deep Learning 
     1. ‪[Video Lectures of Deep Learning‪](http://videolectures.net/deeplearning2015_montreal/) ‬:sweat_smile:
     1. [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+    1. ‪[A Friendly Introduction to Machine Learning‪](https://www.youtube.com/watch?v=IpGxLWOIZy4) ‬:bowtie:
+    1. ‪[A friendly introduction to Deep Learning and Neural Networks](https://www.youtube.com/watch?v=BR9h47Jtqyw&t=837s) ‬:bowtie:
+    1. ‪[A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU) ‬:bowtie:
+    1. ‪[Deep Learning Demystified](https://www.youtube.com/watch?v=Q9Z20HCPnww&t=225s&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&index=4) ‬:bowtie:
+    1. ‪[How Deep Neural Networks Work](https://www.youtube.com/watch?v=ILsA4nyG7I0&t=1269s&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&index=1) ‬:bowtie:
+    1. ‪[How Convolutional Neural Networks work](https://www.youtube.com/watch?v=FmpDIaiMIeA&t=700s&list=PLVZqlMpoM6kbaeySxhdtgQPFEC5nV7Faa&index=2) :bowtie:
   * Artificial Intelligence
     1. [MIT 6.034 Artificial Intelligence, Fall 2010](https://www.youtube.com/playlist?list=PLUl4u3cNGP63gFHB6xb-kVBiQHYe_4hSi) - Complete set of course lectures
 

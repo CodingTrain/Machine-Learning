@@ -132,6 +132,7 @@ give attributes to them so that it is easy to understand where a resource fits i
 ## Tools
   1. [ConvNetJS - Javascript library for training Deep Learning models (Neural Networks) ](http://cs.stanford.edu/people/karpathy/convnetjs/) :sweat_smile:
   1. [RecurrentJS - Deep Recurrent Neural Networks and LSTMs in Javascript](https://github.com/shiffman/recurrentjs) :sweat_smile:
+  1. [AIXIjs - JavaScript demo for running General Reinforcement Learning (RL) agents](https://github.com/aslanides/aixijs/) :sweat_smile:
   1. [WORD2VEC](http://technobium.com/find-words-similarity-using-deeplearning4j-word2vec/) :sweat_smile:
   1. [Neuro.js](https://github.com/janhuenermann/neurojs)
   1. [‪Google Chrome Extensión to download all Image of the Google Search](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=es‬) :bowtie: :rainbow:

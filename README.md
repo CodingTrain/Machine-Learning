@@ -55,6 +55,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Let’s code a Neural Network from scratch (Processing)](https://medium.com/typeme/lets-code-a-neural-network-from-scratch-part-1-24f0a30d7d62) :sweat_smile:
   1. [Distill - Demystifying Machine Learning Research](http://distill.pub/)
   1. [Machine Learning in Javascript](http://burakkanber.com/tag/ml-in-js/) :sweat_smile:
+  1. [A.I. Experiments from google](https://aiexperiments.withgoogle.com/)    
    
 ## Books
   1. [Machine Learning for Designers](http://www.oreilly.com/design/free/machine-learning-for-designers.csp) by [Patrick Hebron](http://www.patrickhebron.com/), [Accompanying Webcast: Machine learning and the future of design](http://www.oreilly.com/pub/e/3709)
@@ -82,6 +83,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   2. [Recurrent Neural Network Tutorial for Artists](http://blog.otoro.net/2017/01/01/recurrent-neural-network-artist/) :rainbow:
   1. [Browser Self-Driving Car](http://janhuenermann.com/projects/learning-to-drive),[Learning to Drive Blog Post](http://lab.janhuenermann.de/article/learning-to-drive)
   1. [The Neural Network Zoo (cheat sheet of nn architectures)](http://www.asimovinstitute.org/neural-network-zoo/)
+                                                   
 
 ## Projects
   1. [Bidirectional LSTM for IMDB sentiment classification](https://transcranial.github.io/keras-js/#/imdb-bidirectional-lstm) :sweat_smile:

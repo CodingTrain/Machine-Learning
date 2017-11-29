@@ -57,6 +57,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Machine Learning in Javascript](http://burakkanber.com/tag/ml-in-js/) :sweat_smile:
   1. [A.I. Experiments from google](https://aiexperiments.withgoogle.com/)    
   1. [Rohan & Lenny #3: Recurrent Neural Networks & LSTMs](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b) :sweat_smile:
+  1. [Backpropogating an LSTM: A Numerical Example](https://medium.com/@aidangomez/let-s-do-this-f9b699de31d9) :sweat_smile:
    
 ## Books
   1. [Machine Learning for Designers](http://www.oreilly.com/design/free/machine-learning-for-designers.csp) by [Patrick Hebron](http://www.patrickhebron.com/), [Accompanying Webcast: Machine learning and the future of design](http://www.oreilly.com/pub/e/3709)

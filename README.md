@@ -63,7 +63,8 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Machine Learning for Designers](http://www.oreilly.com/design/free/machine-learning-for-designers.csp) by [Patrick Hebron](http://www.patrickhebron.com/), [Accompanying Webcast: Machine learning and the future of design](http://www.oreilly.com/pub/e/3709)
   1. [Reinforcement Learning Book‪](https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html) :sweat_smile:
   1. [Machine Learning Book](https://machinelearningmastery.com/master-machine-learning-algorithms/‬) :rainbow:
-
+  1. [Make Your Own Neural Network](https://github.com/CodingTrain/Machine-Learning/)
+  
 ## Courses
   1. [The Neural Aesthetic @ SchoolOfMa, Summer 2016](http://ml4a.github.io/classes/neural-aesthetic/) :rainbow: :bowtie:
   1. [Machine Learning for Musicians and Artists, Kadenze](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-i)[Scheduled course] :rainbow: :bowtie:

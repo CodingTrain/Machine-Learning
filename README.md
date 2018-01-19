@@ -62,7 +62,7 @@ give attributes to them so that it is easy to understand where a resource fits i
 ## Books
   1. [Machine Learning for Designers](http://www.oreilly.com/design/free/machine-learning-for-designers.csp) by [Patrick Hebron](http://www.patrickhebron.com/), [Accompanying Webcast: Machine learning and the future of design](http://www.oreilly.com/pub/e/3709)
   1. [Reinforcement Learning Book‪](https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html) :sweat_smile:
-  1. [Machine Learning Book](https://machinelearningmastery.com/master-machine-learning-algorithms/‬) :rainbow:
+  1. [Machine Learning Book](https://machinelearningmastery.com/master-machine-learning-algorithms/) :rainbow:
 
 ## Courses
   1. [The Neural Aesthetic @ SchoolOfMa, Summer 2016](http://ml4a.github.io/classes/neural-aesthetic/) :rainbow: :bowtie:
@@ -86,14 +86,12 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Browser Self-Driving Car](http://janhuenermann.com/projects/learning-to-drive),[Learning to Drive Blog Post](http://lab.janhuenermann.de/article/learning-to-drive)
   1. [The Neural Network Zoo (cheat sheet of nn architectures)](http://www.asimovinstitute.org/neural-network-zoo/)
                                                    
-
 ## Projects
   1. [Bidirectional LSTM for IMDB sentiment classification](https://transcranial.github.io/keras-js/#/imdb-bidirectional-lstm) :sweat_smile:
   1. [Land Lines](https://medium.com/@zachlieberman/land-lines-e1f88c745847#.1157xmhw8)
   1. [nnvis - Topological Visualisation of a Convolutional Neural Network](http://terencebroad.com/convnetvis/vis.html) :rainbow: :bowtie:
   1. [char-rnn A character level language model (a fancy text generator)](https://github.com/karpathy/char-rnn) :rainbow: :sweat_smile:
   1. [Machine Learnig Projects](http://blog.yhat.com/posts/ML-to-watch.html)
-
 
 ## Videos
   * Reinforcement Learning
@@ -124,9 +122,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Machine Learning Resources](http://blog.yhat.com/posts/ML-resources-you-should-know.html) 
   1. [Isochrones using the Google Maps Distance Matrix API](http://blog.yhat.com/posts/isochrones-isocronut.html)
   1. [Index of Best AI/Machine Learning Resources](https://hackernoon.com/index-of-best-ai-machine-learning-resources-71ba0c73e34d#.f0vx1erj9)
-  
 
-  
 ## Newsletter
   1. [Data Science](https://www.datascienceweekly.org/)
   1. [Data Elixir](https://dataelixir.com/)

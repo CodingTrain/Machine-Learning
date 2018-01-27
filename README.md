@@ -58,6 +58,8 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [A.I. Experiments from google](https://aiexperiments.withgoogle.com/)    
   1. [Rohan & Lenny #3: Recurrent Neural Networks & LSTMs](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b) :sweat_smile:
   1. [Backpropogating an LSTM: A Numerical Example](https://medium.com/@aidangomez/let-s-do-this-f9b699de31d9) :sweat_smile:
+  1. [Naive Bayes for Dummies; A Simple Explanation](http://blog.aylien.com/naive-bayes-for-dummies-a-simple-explanation/) :bowtie:
+  1. [FIXED VERSION OF ABOVE](https://github.com/MohamedAlFahim/Machine-Learning-Made-Cool/blob/master/Notes/Machine%20Learning%20Tutorial%20Pres%20copy.pptx) :bowtie:
    
 ## Books
   1. [Machine Learning for Designers](http://www.oreilly.com/design/free/machine-learning-for-designers.csp) by [Patrick Hebron](http://www.patrickhebron.com/), [Accompanying Webcast: Machine learning and the future of design](http://www.oreilly.com/pub/e/3709)

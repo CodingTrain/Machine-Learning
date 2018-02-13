@@ -60,7 +60,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Backpropogating an LSTM: A Numerical Example](https://medium.com/@aidangomez/let-s-do-this-f9b699de31d9) :sweat_smile:
   1. [Naive Bayes for Dummies; A Simple Explanation](http://blog.aylien.com/naive-bayes-for-dummies-a-simple-explanation/) :bowtie:
   1. [FIXED VERSION OF ABOVE](https://github.com/MohamedAlFahim/Machine-Learning-Made-Cool/blob/master/Notes/Naive%20Bayes%20Notes%20(Comprehensive).pptx) :bowtie:
-   
+
 ## Books
   1. [Machine Learning for Designers](http://www.oreilly.com/design/free/machine-learning-for-designers.csp) by [Patrick Hebron](http://www.patrickhebron.com/), [Accompanying Webcast: Machine learning and the future of design](http://www.oreilly.com/pub/e/3709)
   1. [Reinforcement Learning Book‪](https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html) :sweat_smile:
@@ -76,6 +76,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [‪Course in Machine Learning](http://ciml.info/?utm_source=mybridge&utm_medium=ios&utm_campaign=read_more‬)
   1. [‪Stanford Course Machine Learning](http://cs229.stanford.edu/materials.html‬)
   1. [Udacity - Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)[Whole Program] :sweat_smile:
+  1. [DeepMind - Reinforcement Learning lectures by David Silver](https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
 
 ## Examples
   1. [A Deep Q Reinforcement Learning Demo](http://projects.rajivshah.com/rldemo/) :bowtie:
@@ -87,7 +88,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   2. [Recurrent Neural Network Tutorial for Artists](http://blog.otoro.net/2017/01/01/recurrent-neural-network-artist/) :rainbow:
   1. [Browser Self-Driving Car](http://janhuenermann.com/projects/learning-to-drive),[Learning to Drive Blog Post](http://lab.janhuenermann.de/article/learning-to-drive)
   1. [The Neural Network Zoo (cheat sheet of nn architectures)](http://www.asimovinstitute.org/neural-network-zoo/)
-                                                   
+
 ## Projects
   1. [Bidirectional LSTM for IMDB sentiment classification](https://transcranial.github.io/keras-js/#/imdb-bidirectional-lstm) :sweat_smile:
   1. [Land Lines](https://medium.com/@zachlieberman/land-lines-e1f88c745847#.1157xmhw8)
@@ -103,7 +104,7 @@ give attributes to them so that it is easy to understand where a resource fits i
     1. [Evolving Swimming Soft-Bodied Creatures](https://www.youtube.com/watch?v=4ZqdvYrZ3ro) :rainbow: :bowtie:
     1. [Harnessing evolutionary creativity: evolving soft-bodied animats in simulated physical environments](https://www.youtube.com/watch?v=CXTZHHQ7ZiQ&feature=youtu.be) :rainbow: :bowtie:
     1. [Reproduce image with genetic algorithm](https://www.youtube.com/watch?v=iV-hah6xs2A) :bowtie:
-  * Deep Learning 
+  * Deep Learning
     1. ‪[Video Lectures of Deep Learning‪](http://videolectures.net/deeplearning2015_montreal/) ‬:sweat_smile:
     1. [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
     1. ‪[A Friendly Introduction to Machine Learning‪](https://www.youtube.com/watch?v=IpGxLWOIZy4) ‬:bowtie:
@@ -121,7 +122,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [‪Free dataset for projects](https://www.dataquest.io/blog/free-datasets-for-projects)
   1. [Facial Recognition Database](https://www.kairos.com/blog/166-60-facial-recognition-databases)
   1. [iOS application- Read top articles for your professional skills with @mybridge - Here you can find new articles every day for Data Science and Machine Learning among other things](https://itunes.apple.com/app/id1055459116)
-  1. [Machine Learning Resources](http://blog.yhat.com/posts/ML-resources-you-should-know.html) 
+  1. [Machine Learning Resources](http://blog.yhat.com/posts/ML-resources-you-should-know.html)
   1. [Isochrones using the Google Maps Distance Matrix API](http://blog.yhat.com/posts/isochrones-isocronut.html)
   1. [Index of Best AI/Machine Learning Resources](https://hackernoon.com/index-of-best-ai-machine-learning-resources-71ba0c73e34d#.f0vx1erj9)
 
@@ -139,7 +140,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Neuro.js](https://github.com/janhuenermann/neurojs)
   1. [‪Google Chrome Extensión to download all Image of the Google Search](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=es‬) :bowtie: :rainbow:
   1 [Scikit-Learn](http://scikit-learn.org/)
- 
+
 ### TensorFlow
   1. [Projector](http://projector.tensorflow.org/) :sweat_smile:
   1. [Magenta](https://github.com/tensorflow/magenta) :rainbow:

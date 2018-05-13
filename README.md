@@ -58,13 +58,16 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [A.I. Experiments from google](https://aiexperiments.withgoogle.com/)    
   1. [Rohan & Lenny #3: Recurrent Neural Networks & LSTMs](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b) :sweat_smile:
   1. [Backpropogating an LSTM: A Numerical Example](https://medium.com/@aidangomez/let-s-do-this-f9b699de31d9) :sweat_smile:
-   
+  1. [Naive Bayes for Dummies; A Simple Explanation](http://blog.aylien.com/naive-bayes-for-dummies-a-simple-explanation/) :bowtie:
+  1. [FIXED VERSION OF ABOVE](https://github.com/MohamedAlFahim/Machine-Learning-Made-Cool/blob/master/Notes/Naive%20Bayes%20Notes%20(Comprehensive).pptx) :bowtie:
+
 ## Books
   1. [Machine Learning for Designers](http://www.oreilly.com/design/free/machine-learning-for-designers.csp) by [Patrick Hebron](http://www.patrickhebron.com/), [Accompanying Webcast: Machine learning and the future of design](http://www.oreilly.com/pub/e/3709)
   1. [Reinforcement Learning Book‪](https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html) :sweat_smile:
   1. [Machine Learning Book](https://machinelearningmastery.com/master-machine-learning-algorithms/‬) :rainbow:
-  1. [Make Your Own Neural Network](https://github.com/CodingTrain/Machine-Learning/)
-  
+  1. [Make Your Own Neural Network](https://github.com/CodingTrain/Machine-Learning/) :rainbow:
+  1. [Machine Learning Book](https://machinelearningmastery.com/master-machine-learning-algorithms/) :rainbow:
+
 ## Courses
   1. [The Neural Aesthetic @ SchoolOfMa, Summer 2016](http://ml4a.github.io/classes/neural-aesthetic/) :rainbow: :bowtie:
   1. [Machine Learning for Musicians and Artists, Kadenze](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-i)[Scheduled course] :rainbow: :bowtie:
@@ -75,6 +78,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [‪Course in Machine Learning](http://ciml.info/?utm_source=mybridge&utm_medium=ios&utm_campaign=read_more‬)
   1. [‪Stanford Course Machine Learning](http://cs229.stanford.edu/materials.html‬)
   1. [Udacity - Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)[Whole Program] :sweat_smile:
+  1. [DeepMind - Reinforcement Learning lectures by David Silver](https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
 
 ## Examples
   1. [A Deep Q Reinforcement Learning Demo](http://projects.rajivshah.com/rldemo/) :bowtie:
@@ -86,7 +90,6 @@ give attributes to them so that it is easy to understand where a resource fits i
   2. [Recurrent Neural Network Tutorial for Artists](http://blog.otoro.net/2017/01/01/recurrent-neural-network-artist/) :rainbow:
   1. [Browser Self-Driving Car](http://janhuenermann.com/projects/learning-to-drive),[Learning to Drive Blog Post](http://lab.janhuenermann.de/article/learning-to-drive)
   1. [The Neural Network Zoo (cheat sheet of nn architectures)](http://www.asimovinstitute.org/neural-network-zoo/)
-                                                   
 
 ## Projects
   1. [Bidirectional LSTM for IMDB sentiment classification](https://transcranial.github.io/keras-js/#/imdb-bidirectional-lstm) :sweat_smile:
@@ -94,7 +97,6 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [nnvis - Topological Visualisation of a Convolutional Neural Network](http://terencebroad.com/convnetvis/vis.html) :rainbow: :bowtie:
   1. [char-rnn A character level language model (a fancy text generator)](https://github.com/karpathy/char-rnn) :rainbow: :sweat_smile:
   1. [Machine Learnig Projects](http://blog.yhat.com/posts/ML-to-watch.html)
-
 
 ## Videos
   * Reinforcement Learning
@@ -104,7 +106,7 @@ give attributes to them so that it is easy to understand where a resource fits i
     1. [Evolving Swimming Soft-Bodied Creatures](https://www.youtube.com/watch?v=4ZqdvYrZ3ro) :rainbow: :bowtie:
     1. [Harnessing evolutionary creativity: evolving soft-bodied animats in simulated physical environments](https://www.youtube.com/watch?v=CXTZHHQ7ZiQ&feature=youtu.be) :rainbow: :bowtie:
     1. [Reproduce image with genetic algorithm](https://www.youtube.com/watch?v=iV-hah6xs2A) :bowtie:
-  * Deep Learning 
+  * Deep Learning
     1. ‪[Video Lectures of Deep Learning‪](http://videolectures.net/deeplearning2015_montreal/) ‬:sweat_smile:
     1. [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
     1. ‪[A Friendly Introduction to Machine Learning‪](https://www.youtube.com/watch?v=IpGxLWOIZy4) ‬:bowtie:
@@ -122,12 +124,10 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [‪Free dataset for projects](https://www.dataquest.io/blog/free-datasets-for-projects)
   1. [Facial Recognition Database](https://www.kairos.com/blog/166-60-facial-recognition-databases)
   1. [iOS application- Read top articles for your professional skills with @mybridge - Here you can find new articles every day for Data Science and Machine Learning among other things](https://itunes.apple.com/app/id1055459116)
-  1. [Machine Learning Resources](http://blog.yhat.com/posts/ML-resources-you-should-know.html) 
+  1. [Machine Learning Resources](http://blog.yhat.com/posts/ML-resources-you-should-know.html)
   1. [Isochrones using the Google Maps Distance Matrix API](http://blog.yhat.com/posts/isochrones-isocronut.html)
   1. [Index of Best AI/Machine Learning Resources](https://hackernoon.com/index-of-best-ai-machine-learning-resources-71ba0c73e34d#.f0vx1erj9)
-  
 
-  
 ## Newsletter
   1. [Data Science](https://www.datascienceweekly.org/)
   1. [Data Elixir](https://dataelixir.com/)
@@ -142,7 +142,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Neuro.js](https://github.com/janhuenermann/neurojs)
   1. [‪Google Chrome Extensión to download all Image of the Google Search](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf?hl=es‬) :bowtie: :rainbow:
   1 [Scikit-Learn](http://scikit-learn.org/)
- 
+
 ### TensorFlow
   1. [Projector](http://projector.tensorflow.org/) :sweat_smile:
   1. [Magenta](https://github.com/tensorflow/magenta) :rainbow:

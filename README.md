@@ -67,7 +67,6 @@ give attributes to them so that it is easy to understand where a resource fits i
 
 ## Books
   1. [Machine Learning for Designers](http://www.oreilly.com/design/free/machine-learning-for-designers.csp) by [Patrick Hebron](http://www.patrickhebron.com/), [Accompanying Webcast: Machine learning and the future of design](http://www.oreilly.com/pub/e/3709)
-  1. [A course in machine learning](http://ciml.info/) :sweat_smile: :bowtie:
   1. [Machine Learning Book](https://machinelearningmastery.com/master-machine-learning-algorithms/) :rainbow:
   1. [A first encounter with machine learning](https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf) :bowtie:
   1. [Natural Language Processing with Python](https://www.nltk.org/book/) :sweat_smile: :bowtie:
@@ -75,14 +74,15 @@ give attributes to them so that it is easy to understand where a resource fits i
 
 
 ## Courses
-  1. [The Neural Aesthetic @ SchoolOfMa, Summer 2016](http://ml4a.github.io/classes/neural-aesthetic/) :rainbow: :bowtie:
+  1. [Machine Learning Crash Course By Google](https://developers.google.com/machine-learning/crash-course/) :bowtie:
+  1. [The Neural Aesthetic @ SchoolOfMa, Summer 2016](https://ml4a.github.io/classes/neural-aesthetic/) :rainbow: :bowtie:
   1. [Machine Learning for Musicians and Artists, Kadenze](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-i)[Scheduled course] :rainbow: :bowtie:
   1. [Creative Applications of Deep Learning with TensorFlow, Kadenze](https://www.kadenze.com/programs/creative-applications-of-deep-learning-with-tensorflow)[Whole Program] :rainbow: :sweat_smile:
   1. [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning) :bowtie:
   1. [Coursera - Neural Networks](https://www.coursera.org/learn/neural-networks) :sweat_smile:
   1. [Practical Deep Learning for Coders](http://www.fast.ai/2017/02/24/captions-and-notes/) :bowtie:
   1. [‪Course in Machine Learning](http://ciml.info/?utm_source=mybridge&utm_medium=ios&utm_campaign=read_more‬)
-  1. [‪Stanford Course Machine Learning](http://cs229.stanford.edu/materials.html‬)
+  1. [‪Stanford Course Machine Learning](http://www.holehouse.org/mlclass/‬)
   1. [Udacity - Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)[Whole Program] :sweat_smile:
   1. [DeepMind - Reinforcement Learning lectures by David Silver](https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
 

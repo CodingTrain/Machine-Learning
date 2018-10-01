@@ -75,6 +75,7 @@ give attributes to them so that it is easy to understand where a resource fits i
 
 ## Courses
   1. [Machine Learning Crash Course By Google](https://developers.google.com/machine-learning/crash-course/) :bowtie:
+  1. [Coursera - Machine Learning with TensorFlow on GCP](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp?action=enroll) :sweat_smile:
   1. [The Neural Aesthetic @ SchoolOfMa, Summer 2016](https://ml4a.github.io/classes/neural-aesthetic/) :rainbow: :bowtie:
   1. [Machine Learning for Musicians and Artists, Kadenze](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-i)[Scheduled course] :rainbow: :bowtie:
   1. [Creative Applications of Deep Learning with TensorFlow, Kadenze](https://www.kadenze.com/programs/creative-applications-of-deep-learning-with-tensorflow)[Whole Program] :rainbow: :sweat_smile:
@@ -96,6 +97,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   2. [Recurrent Neural Network Tutorial for Artists](http://blog.otoro.net/2017/01/01/recurrent-neural-network-artist/) :rainbow:
   1. [Browser Self-Driving Car](http://janhuenermann.com/projects/learning-to-drive),[Learning to Drive Blog Post](http://lab.janhuenermann.de/article/learning-to-drive)
   1. [The Neural Network Zoo (cheat sheet of nn architectures)](http://www.asimovinstitute.org/neural-network-zoo/)
+  1. [Slice of Machine Learning](https://sliceofml.withgoogle.com/#/)
 
 ## Projects
   1. [Bidirectional LSTM for IMDB sentiment classification](https://transcranial.github.io/keras-js/#/imdb-bidirectional-lstm) :sweat_smile:

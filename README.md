@@ -39,10 +39,10 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Why is machine learning 'hard'?](http://ai.stanford.edu/~zayd/why-is-machine-learning-hard.html) :bowtie:
   1. [Unreasonable effectiveness of RNNs](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) :sweat_smile:
   1. [colah's blog](http://colah.github.io/)
-  1. ‪[Machine Learning Website with many Tutorial of Machine Learning‪](http://machinelearningmastery.com/‬) ‬:rainbow:
+  1. ‪[Machine Learning Website with many Tutorial of Machine Learning‪](https://machinelearningmastery.com/start-here/‬) ‬:rainbow:
   1. [Beginners tutorial for decision tree implementation](https://www.dezyre.com/data-science-in-r-programming-tutorial/decision-tree-tutorial) :rainbow:‪
   1. [Machine Learning Beginner tutorial Supervised and Unsupervised Learning](http://dataaspirant.com/2014/09/19/supervised-and-unsupervised-learning/‬) :rainbow:‪
-  1. [Q-Learning Tutorial](http://outlace.com/Reinforcement-Learning-Part-3/) :sweat_smile:
+  1. [Q-Learning Tutorial](http://outlace.com/rlpart3.html) :sweat_smile:
   1. [Big O notation Free Code Camp](https://medium.freecodecamp.com/time-is-complex-but-priceless-f0abd015063c?source=linkShare-4599aaae9f0b-1489449307) :bowtie:
   1. [Ray Wenderlich Big O notation](https://github.com/raywenderlich/swift-algorithm-club/blob/master/Big-O%20Notation.markdown) :bowtie:
   1. [Interview Cake Big O notation](https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity) :bowtie:
@@ -59,12 +59,20 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Rohan & Lenny #3: Recurrent Neural Networks & LSTMs](https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b) :sweat_smile:
   1. [Backpropogating an LSTM: A Numerical Example](https://medium.com/@aidangomez/let-s-do-this-f9b699de31d9) :sweat_smile:
   1. [Naive Bayes for Dummies; A Simple Explanation](http://blog.aylien.com/naive-bayes-for-dummies-a-simple-explanation/) :bowtie:
-  1. [FIXED VERSION OF ABOVE](https://github.com/MohamedAlFahim/Machine-Learning-Made-Cool/blob/master/Notes/Naive%20Bayes%20Notes%20(Comprehensive).pptx) :bowtie:
+  1. [Machine Learning Crash Course @ Berkeley](https://ml.berkeley.edu/blog/tutorials/) :bowtie: :godmode:
+  1. [How to approach almost any ML problem?](http://blog.kaggle.com/2016/07/21/approaching-almost-any-machine-learning-problem-abhishek-thakur/) :sweat_smile:
+  1. [Technical Notes on ML & AI by Chris Albon](https://chrisalbon.com/#machine_learning) :bowtie: :sweat_smile:
+  1. [Naive Bayes and Text Classification](https://sebastianraschka.com/Articles/2014_naive_bayes_1.html) :sweat_smile:
+  1. [First Contact With TensorFlow](https://torres.ai/research-teaching/tensorflow/first-contact-with-tensorflow-book/first-contact-with-tensorflow/) :sweat_smile:
 
 ## Books
   1. [Machine Learning for Designers](http://www.oreilly.com/design/free/machine-learning-for-designers.csp) by [Patrick Hebron](http://www.patrickhebron.com/), [Accompanying Webcast: Machine learning and the future of design](http://www.oreilly.com/pub/e/3709)
-  1. [Reinforcement Learning Book‪](https://webdocs.cs.ualberta.ca/~sutton/book/ebook/the-book.html) :sweat_smile:
+  1. [A course in machine learning](http://ciml.info/) :sweat_smile: :bowtie:
   1. [Machine Learning Book](https://machinelearningmastery.com/master-machine-learning-algorithms/) :rainbow:
+  1. [A first encounter with machine learning](https://www.ics.uci.edu/~welling/teaching/ICS273Afall11/IntroMLBook.pdf) :bowtie:
+  1. [Natural Language Processing with Python](https://www.nltk.org/book/) :sweat_smile: :bowtie:
+  1. [A Brief Introduction to Neural Networks](http://www.dkriesel.com/en/science/neural_networks) :sweat_smile:
+
 
 ## Courses
   1. [The Neural Aesthetic @ SchoolOfMa, Summer 2016](http://ml4a.github.io/classes/neural-aesthetic/) :rainbow: :bowtie:

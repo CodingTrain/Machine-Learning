@@ -83,7 +83,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   7. [Coursera - Neural Networks](https://www.coursera.org/learn/neural-networks-deep-learning) :sweat_smile:
   8. [Practical Deep Learning for Coders](http://www.fast.ai/2017/02/24/captions-and-notes/) :bowtie:
   9. [‪Course in Machine Learning](http://ciml.info/?utm_source=mybridge&utm_medium=ios&utm_campaign=read_more‬)
-  10. [‪Stanford Course Machine Learning](http://cs229.stanford.edu/‬)
+  10. [‪Stanford Course Machine Learning](http://cs229.stanford.edu/syllabus.html)
   11. [Udacity - Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)[Whole Program] :sweat_smile:
   12. [DeepMind - Reinforcement Learning lectures by David Silver](https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
 

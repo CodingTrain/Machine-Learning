@@ -80,10 +80,10 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Machine Learning for Musicians and Artists, Kadenze](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-i)[Scheduled course] :rainbow: :bowtie:
   1. [Creative Applications of Deep Learning with TensorFlow, Kadenze](https://www.kadenze.com/programs/creative-applications-of-deep-learning-with-tensorflow)[Whole Program] :rainbow: :sweat_smile:
   1. [Coursera - Machine Learning](https://www.coursera.org/learn/machine-learning) :bowtie:
-  1. [Coursera - Neural Networks](https://www.coursera.org/learn/neural-networks) :sweat_smile:
+  1. [Coursera - Neural Networks](https://www.coursera.org/learn/neural-networks-deep-learning) :sweat_smile:
   1. [Practical Deep Learning for Coders](http://www.fast.ai/2017/02/24/captions-and-notes/) :bowtie:
   1. [‪Course in Machine Learning](http://ciml.info/?utm_source=mybridge&utm_medium=ios&utm_campaign=read_more‬)
-  1. [‪Stanford Course Machine Learning](http://www.holehouse.org/mlclass/‬)
+  1. [‪Stanford Course Machine Learning](http://cs229.stanford.edu/‬)
   1. [Udacity - Machine Learning Engineer](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)[Whole Program] :sweat_smile:
   1. [DeepMind - Reinforcement Learning lectures by David Silver](https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
 

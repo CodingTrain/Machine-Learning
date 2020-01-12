@@ -104,7 +104,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Land Lines](https://medium.com/@zachlieberman/land-lines-e1f88c745847#.1157xmhw8)
   1. [nnvis - Topological Visualisation of a Convolutional Neural Network](http://terencebroad.com/convnetvis/vis.html) :rainbow: :bowtie:
   1. [char-rnn A character level language model (a fancy text generator)](https://github.com/karpathy/char-rnn) :rainbow: :sweat_smile:
-  1. [Machine Learnig Projects](http://blog.yhat.com/posts/ML-to-watch.html)
+  1. [Machine Learning Projects](http://blog.yhat.com/posts/ML-to-watch.html)
 
 ## Videos
   * Reinforcement Learning

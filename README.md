@@ -135,6 +135,7 @@ give attributes to them so that it is easy to understand where a resource fits i
   1. [Machine Learning Resources](http://blog.yhat.com/posts/ML-resources-you-should-know.html)
   1. [Isochrones using the Google Maps Distance Matrix API](http://blog.yhat.com/posts/isochrones-isocronut.html)
   1. [Index of Best AI/Machine Learning Resources](https://hackernoon.com/index-of-best-ai-machine-learning-resources-71ba0c73e34d#.f0vx1erj9)
+  1. [Machine Learning Interview Questions](https://www.interviewbit.com/machine-learning-interview-questions/)
 
 ## Newsletter
   1. [Data Science](https://www.datascienceweekly.org/)

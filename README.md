@@ -139,7 +139,7 @@ give attributes to them so that it is easy to understand where a resource fits i
 ## Newsletter
   1. [Data Science](https://www.datascienceweekly.org/)
   1. [Data Elixir](https://dataelixir.com/)
-  1. [Artificial Intelligence Weekly](http://aiweekly.co/)
+  1. [AI Weekly](https://aiweekly.co/) - Discover what AI experts are reading and sharing right now.
   1. [Data Aspirant](http://dataaspirant.com/)
 
 ## Tools
